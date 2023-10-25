@@ -1,0 +1,1 @@
+in questo esercizio abbiamo visualizzato i principali comandi nmap e i suoi utilizzi e di come cambino i risultati  in base al sistema operativo utilizzato del host nella rete 
